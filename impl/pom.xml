@@ -50,13 +50,6 @@
         build cycle and releases snapshots into the snapshot repository
         below.
     -->
-    <scm>
-        <connection>scm:svn:http://scm.dspace.org/svn/repo/modules/dspace-services/tags/dspace-services-2.0.3/impl</connection>
-        <developerConnection>scm:svn:https://scm.dspace.org/svn/repo/modules/dspace-services/tags/dspace-services-2.0.3/impl
-        </developerConnection>
-        <url>http://scm.dspace.org/svn/repo/modules/dspace-services/tags/dspace-services-2.0.3/impl</url>
-    </scm>
-
     <dependencies>
         <!-- common modules -->
         <dependency>
